@@ -7,4 +7,4 @@ a biochemistry postdoc and currently a data scientist student at neuefische :fis
 
 
 <img src="images/python.svg" alt="drawing" width="30"/>
-<img src="images/R.svg" alt="drawing" width="30"/>
+<img src="images/r.svg" alt="drawing" width="30"/>
