@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Christian,
-a biochemistry postdoc and currently a data scientist student at neuefische :fish:. 
+a biochemistry postdoc and data scientist. 
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/ChristianKlingler/ChristianKlingler)
 
